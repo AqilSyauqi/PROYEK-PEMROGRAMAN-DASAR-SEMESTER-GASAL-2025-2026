@@ -2,8 +2,7 @@
 PROYEK MATA KULIAH PEMROGRAMAN DASAR SEMESTER GASAL 2025/2026
 
 # Nama Lengkap
-**Muhammad Aqil Syauqi Nugrahaputra**
-**Naufal Ramadhan Putra Kurnia**
+**Muhammad Aqil Syauqi Nugrahaputra** /n**Naufal Ramadhan Putra Kurnia**
 
 # Program Studi
 **teknik Elektro**
